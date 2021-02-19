@@ -1,0 +1,6 @@
+javac Stack.java Palindrome.java
+java Palindrome Was it a Car, or a Cat I saw?
+java Palindrome Guilherme Matsumoto Tommasini
+java Palindrome May a moody baby doom a yam?
+java Palindrome Race car
+java Palindrome Some random stuff!
